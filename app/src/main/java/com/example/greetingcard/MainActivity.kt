@@ -40,6 +40,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     GreetingCardTheme {
-        Greeting("Vinícius")
+        Greeting("Vinícius Lima")
     }
 }
